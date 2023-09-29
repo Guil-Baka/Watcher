@@ -1,0 +1,14 @@
+# ignore .vscode folder
+.vscode
+
+# ignore pycache folder on all directories
+!**/__pycache__/
+
+# ignore all .pyc files
+*.pyc]
+
+# ignore fotos folder
+fotos/
+
+# ignore config.json file
+config.json
